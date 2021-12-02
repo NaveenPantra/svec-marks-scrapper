@@ -40,4 +40,4 @@ Example roll number: 15121A12B2
 
 ## video
 
-![Marks Scrapper usage video](./assets/Screen%20Recording%202021-12-03%20at%2002.18.22.mov)
+https://user-images.githubusercontent.com/26146760/144504970-087ce430-941d-4aa1-8a62-8ffcc88c47cf.mp4
