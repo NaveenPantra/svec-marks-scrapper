@@ -4,6 +4,8 @@ A CLI tool to scrape marks for Sree vidyanikethan engineering college examinatio
 ## About
 This CLI tool will extract the marks of the SVEC student from `2010` and above and display them in the `terminal/cmd prompt`.
 
+The fetched results will be stored in a `JSON` file `data.json` in your `current working directory`
+
 you have to give the following information for scrapping
 - start year
 - end year
@@ -30,7 +32,7 @@ Example roll number: 15121A12B2
 
 ### upcoming
 
-- Will give option to store the fetched data to `CSV` and `JSON` files.
+- Will give option to store the fetched data to `CSV` files.
 
 ## Screenshots
 
